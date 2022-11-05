@@ -13,8 +13,6 @@
 
 - 📫 How to reach me [Telegram](https://t.me/RedLikYT)
 
-- 📄 Know about my experiences [hh.ru](https://hh.ru/resume/b5165b13ff0b5b0ff50039ed1f454e41646d64)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/andr1an0lv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andr1an0lv" height="30" width="40" /></a>
