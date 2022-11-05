@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Buzdanov Andrian</h1>
+<img align="center" alt="power1" width="950" height="450" src = "https://animecorner.me/wp-content/uploads/2022/11/chainsaw-man-power-figure.png" >
+<h1 align="center">Hi 👋, I'm Andrian</h1>
 <h3 align="center">CyberSecurity student and CTF player</h3>
 <img align="right" alt="power" width="400" src="https://media.tenor.com/1v9s7J231hQAAAAd/chainsaw-man-power.gif">
 
@@ -7,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m ctf player [Link on CTFTIME](https://ctftime.org/user/143814)
+- 🔭 I’m ctf player [Link on CTFtime](https://ctftime.org/user/143814)
 
-- 🌱 My instagram [Link on instagram](https:https://www.instagram.com/andr1an0lv/)
+- 🌱 My instagram [Link on Instagram](https:https://www.instagram.com/andr1an0lv/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/redl1k](https://github.com/redl1k)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/redl1k)
 
 - 📫 How to reach me **Telegram: @RedLikYT**
 
