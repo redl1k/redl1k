@@ -30,4 +30,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=redl1k&" alt="redl1k" /></p>
 
-![snake gif](https://github.com/redl1k/redl1k/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://raw.githubusercontent.com/redl1k/redl1k/output/github-contribution-grid-snake.gif)
