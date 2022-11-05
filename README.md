@@ -1,4 +1,4 @@
-<img align="center" alt="power1" width="950" height="450" src = "https://animecorner.me/wp-content/uploads/2022/11/chainsaw-man-power-figure.png" >
+<img align="center" alt="power1" width="400" height="450" src = "https://animecorner.me/wp-content/uploads/2022/11/chainsaw-man-power-figure.png" >
 <h1 align="center">Hi 👋, I'm Andrian</h1>
 <h3 align="center">CyberSecurity student and CTF player</h3>
 <img align="right" alt="power" width="400" src="https://media.tenor.com/1v9s7J231hQAAAAd/chainsaw-man-power.gif">
