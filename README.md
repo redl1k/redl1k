@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=redl1k&label=Profile%20views&color=0e75b6&style=flat" alt="redl1k" /> </p>
 
-- 👨‍💻 I’m ctf player and right here [link to my CTFtime profile](https://ctftime.org/user/143814)
+- 👨‍💻 [Link to my CTTtime profile](https://ctftime.org/user/143814)
 
 - 🌱 [My Instagram profile](https:https://www.instagram.com/andr1an0lv/)
 
-- 📫 How to reach me [Telegram](https://t.me/RedLikYT)
+- 📫 [Telegram](https://t.me/RedLikYT)
 
 - ⚡ [My YouTube Channel](https://www.youtube.com/MrRedLik)
 
