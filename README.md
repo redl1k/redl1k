@@ -13,10 +13,3 @@
 
 - ⚡ [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@MrRedLik) 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=redl1k&theme=radical&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=redl1k&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=redl1k&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=redl1k&limit=5&theme=dracula&combine_all_yearly_contributions=true)
