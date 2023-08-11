@@ -6,7 +6,7 @@
 
 - 👨‍💻 I’m ctf player and right here [link to my CTFtime profile](https://ctftime.org/user/143814)
 
-- 🌱 [My instagram profile](https:https://www.instagram.com/andr1an0lv/)
+- 🌱 [My Instagram profile](https:https://www.instagram.com/andr1an0lv/)
 
 - 📫 How to reach me [Telegram](https://t.me/RedLikYT)
 
