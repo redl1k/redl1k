@@ -4,11 +4,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=redl1k&label=Profile%20views&color=0e75b6&style=flat" alt="redl1k" /> </p>
 
-- 👨‍💻 [Link to my CTTtime profile](https://ctftime.org/user/143814)
+## 🌐 Socials:
+- 👨‍💻 [CTFtime Profile](https://ctftime.org/user/143814)
 
-- 🌱 [My Instagram profile](https:https://www.instagram.com/andr1an0lv/)
+- 🌱 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/andr1an0lv)
 
-- 📫 [Telegram](https://t.me/RedLikYT)
+- 📫 [![Telegram](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/RedLikYT)
 
-- ⚡ [My YouTube Channel](https://www.youtube.com/MrRedLik)
+- ⚡ [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@MrRedLik) 
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=redl1k&theme=radical&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=redl1k&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=redl1k&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=redl1k&limit=5&theme=dracula&combine_all_yearly_contributions=true)
