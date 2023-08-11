@@ -4,20 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=redl1k&label=Profile%20views&color=0e75b6&style=flat" alt="redl1k" /> </p>
 
-- 🔭 I’m ctf player [Link on CTFtime](https://ctftime.org/user/143814)
+- 👨‍💻 I’m ctf player and right here -> [link to my CTFtime profile](https://ctftime.org/user/143814)
 
-- 🌱 My instagram [Link on Instagram](https:https://www.instagram.com/andr1an0lv/)
-
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/redl1k)
+- 🌱 [My instagram profile](https:https://www.instagram.com/andr1an0lv/)
 
 - 📫 How to reach me [Telegram](https://t.me/RedLikYT)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/andr1an0lv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andr1an0lv" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mr-redlik_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mr-redlik_" height="30" width="40" /></a>
-</p>
+- ⚡ [My Youtube Channel])(https://www.youtube.com/MrRedLik)
 
-
-
-![snake gif](https://raw.githubusercontent.com/redl1k/redl1k/output/github-contribution-grid-snake.gif)
