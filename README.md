@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=redl1k&label=Profile%20views&color=0e75b6&style=flat" alt="redl1k" /> </p>
 
-## 🌐 Socials:
+# 🌐 Socials:
 - 👨‍💻 [CTFtime Profile](https://ctftime.org/user/143814)
 
 - 🌱 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/andr1an0lv)
