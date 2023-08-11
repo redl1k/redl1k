@@ -10,5 +10,5 @@
 
 - 📫 How to reach me [Telegram](https://t.me/RedLikYT)
 
-- ⚡ [My Youtube Channel](https://www.youtube.com/MrRedLik)
+- ⚡ [My YouTube Channel](https://www.youtube.com/MrRedLik)
 
