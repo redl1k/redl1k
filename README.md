@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andrian | a.k.a andr1an0lv</h1>
 <h3 align="center">CyberSecurity student and CTF player</h3>
-<img align="right" alt="gif" height="400" width="700" src="https://github.com/redl1k/redl1k/assets/82593138/728f2df5-0343-48a1-81cd-d11956f0c1ae">
+<img align="right" alt="gif" height="300" width="500" src="https://github.com/redl1k/redl1k/assets/82593138/728f2df5-0343-48a1-81cd-d11956f0c1ae">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=redl1k&label=Profile%20views&color=0e75b6&style=flat" alt="redl1k" /> </p>
 
